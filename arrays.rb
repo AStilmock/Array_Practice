@@ -20,3 +20,5 @@ champions.unshift
 
 # after year.push[2024, 2025, 2026] is complete the array will have 8 elements with 2025 being in the 7th index position
 
+# to delete an element in array you can use the .delete function
+# using teams.delete["liverpool"] the command would remove "liverpool" from the array
