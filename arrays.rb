@@ -15,3 +15,8 @@ payroll.shift
 # the .unshift command returns the array in its .shift form where elements have been shifted or removed
 champions.unshift
 
+# after payroll.shift is completed - only  the last 4 elements will remain in the array
+# after payroll.shift is completed - 2002.2 will be in the 0 index position
+
+# after year.push[2024, 2025, 2026] is complete the array will have 8 elements with 2025 being in the 7th index position
+
